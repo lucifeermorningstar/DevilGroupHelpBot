@@ -7,3 +7,5 @@ Credits - [Devil Support Group](https://t.me/deviluserbot)
 # TELEGRAM
 Check me on [TELEGRAM](https://t.me/deviluserbot)
 
+#Credits
+1. @LEGENDX22
